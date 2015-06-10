@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GameData>
+  <Player>
+    <name>dIEGFO</name>
+    <happiness>0.0</happiness>
+    <numberOfFriends>0</numberOfFriends>
+    <level>0</level>
+    <numerOfTrophies>0</numerOfTrophies>
+    <Friends/>
+    <Inventory>
+      <Capacity>0</Capacity>
+      <Quantity>0</Quantity>
+      <Items>
+        <Item id="1">
+          <stock>1</stock>
+        </Item>
+        <Item id="2">
+          <stock>1</stock>
+        </Item>
+        <Item id="3">
+          <stock>1</stock>
+        </Item>
+        <Item id="4">
+          <stock>1</stock>
+        </Item>
+        <Item id="5">
+          <stock>1</stock>
+        </Item>
+        <Item id="6">
+          <stock>1</stock>
+        </Item>
+      </Items>
+    </Inventory>
+  </Player>
+  <CurrentMap>
+    <Map>0</Map>
+  </CurrentMap>
+</GameData>
